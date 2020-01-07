@@ -10,6 +10,6 @@ do
     sleep 1
     break
   fi
-  sleep .25
+  sleep .1
 done
  
